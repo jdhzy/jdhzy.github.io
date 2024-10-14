@@ -42,7 +42,6 @@ footer {
     color: white;
     text-align: center;
     padding: 10px;
-    position: fixed;
-    bottom: 0;
+    position: relative; /* Change from fixed to relative */
     width: 100%;
 }
